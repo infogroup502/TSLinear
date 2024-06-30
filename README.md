@@ -19,11 +19,13 @@ pip install -r requirements.txt
 The datasets can be obtained and put into datasets/ folder in the following way:
 ### forecast
 - [3 ETT datasets](https://github.com/zhouhaoyi/ETDataset) should be placed at `datasets/forecast/ETTh1.csv`, `datasets/forecast/ETTh2.csv` and `datasets/forecast/ETTm1.csv`.
-- [Weather](https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data)should be placed at `datasets/forecast/Weather.csv`.
-- [Airquality](https://archive.ics.uci.edu/dataset/360/air+quality)should be placed at `datasets/forecast/Airquality.csv`.
-### classification
+- [Weather](https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data) should be placed at `datasets/forecast/weather.csv`.
+- [Airquality](https://archive.ics.uci.edu/dataset/360/air+quality) should be placed at `datasets/forecast/airquality.csv`.
+- [NEW-DATA-1.T15](https://archive.ics.uci.edu/dataset/274/sml2010) should be placed at `datasets/forecast/NEW-DATA-1.T15.csv`.
+- [Tetuan_City_power_consumption](https://www.kaggle.com/datasets/gmkeshav/tetuan-city-power-consumption) should be placed at `datasets/forecast/Tetuan_City_power_consumption.csv`.
+### classification 
 - [128UCRdatasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) should be put into `datasets/UCR/` so that each data file can be located by `datasets/UCR/<dataset_name>/<dataset_name>_*.csv`.
-Such as [Chinatown](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/Chinatown), [ItalyPowerDemand](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ItalyPowerDemand), [RacketSports](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/RacketSports), [ArrowHead](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ArrowHead), [SharePriceIncrease](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/SharePriceIncrease).
+Such as [Chinatown](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/Chinatown), [ItalyPowerDemand](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ItalyPowerDemand), [RacketSports](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/RacketSports), [ArrowHead](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/ArrowHead), [Libras](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/Libras).
 ### anomaly
 - [MSL](https://github.com/zhouhaoyi/ETDataset) should be placed at `datasets/anomaly/MSL.csv`.
 - [SMD](https://github.com/NetManAIOps/OmniAnomaly) should be placed at `datasets/anomaly/SMD.csv`.
