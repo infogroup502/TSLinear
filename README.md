@@ -2,7 +2,7 @@
 This repository contains the official implementation for the paper [Universal Multi-scale Linear Representation Learning for Multivariate Time Series]().
 
 ## Requirements
-The recommended requirements for TSG2L are specified as follows:
+The recommended requirements for TSLiner are specified as follows:
 
 - Python 3.7
 - torch==1.12.0
