@@ -1,5 +1,5 @@
-# TSG2L
-This repository contains the official implementation for the paper [Robust multivariate time series representation learning from global to local perspective]().
+# TSLiner
+This repository contains the official implementation for the paper [Universal Multi-scale Linear Representation Learning for Multivariate Time Series]().
 
 ## Requirements
 The recommended requirements for TSG2L are specified as follows:
