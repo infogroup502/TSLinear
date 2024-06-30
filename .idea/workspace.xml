@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917be855-a400-472e-ab40-fa66deda9148" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Anaconda3_2021_05/envs/model_1/Lib/site-packages/torch/nn/modules/module.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2IwtvLSikNNCqPdKWOB9gr7ejEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS 重要消息&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/实验模型/TSLinear&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ssh.settings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\pycharm_专业版\\PyCharm 2022.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\datasets\anomaly\SWaT" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\datasets\anomaly" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\processed\SMD" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\processed\SMAP" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\processed\MBA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\datasets\forecast" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\datasets\anomaly" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\无用代码" />
+      <recent name="D:\实验模型\model_1_测试_矩阵乘法\datasets\UCR" />
+      <recent name="D:\Users\谢星权\Desktop\实验模型\model_1\datasets\forecast" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_class">
+    <configuration name="train_anom" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="revise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_anom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_class" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="revise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_forecast" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="revise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_forecast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_anom" />
+      <item itemvalue="Python.train_class" />
+      <item itemvalue="Python.train_forecast" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEFAULT_SDK" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\谢星权\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="917be855-a400-472e-ab40-fa66deda9148" name="变更" comment="" />
+      <created>1671104703072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671104703072</updated>
+      <workItem from="1671112510466" duration="917000" />
+      <workItem from="1671126568327" duration="88000" />
+      <workItem from="1671127120130" duration="5202000" />
+      <workItem from="1672051666830" duration="58000" />
+      <workItem from="1677244599859" duration="55103000" />
+      <workItem from="1677501341088" duration="1470000" />
+      <workItem from="1677502936763" duration="47272000" />
+      <workItem from="1677898285988" duration="54000" />
+      <workItem from="1677898357172" duration="7759000" />
+      <workItem from="1678083231194" duration="5979000" />
+      <workItem from="1678151910611" duration="368000" />
+      <workItem from="1678152359054" duration="11442000" />
+      <workItem from="1678185124349" duration="17787000" />
+      <workItem from="1678281067879" duration="9073000" />
+      <workItem from="1678342715944" duration="4052000" />
+      <workItem from="1678365276429" duration="464000" />
+      <workItem from="1678365756616" duration="25229000" />
+      <workItem from="1678684382960" duration="10321000" />
+      <workItem from="1678755574708" duration="2255000" />
+      <workItem from="1678773270330" duration="14122000" />
+      <workItem from="1678800390875" duration="1669000" />
+      <workItem from="1678859884552" duration="3175000" />
+      <workItem from="1678881994218" duration="1165000" />
+      <workItem from="1678887894670" duration="1377000" />
+      <workItem from="1678966148804" duration="8977000" />
+      <workItem from="1679044928901" duration="22600000" />
+      <workItem from="1679127211998" duration="17222000" />
+      <workItem from="1679289089365" duration="7542000" />
+      <workItem from="1679299515384" duration="1965000" />
+      <workItem from="1679306845371" duration="7849000" />
+      <workItem from="1679331006722" duration="172000" />
+      <workItem from="1679358015528" duration="335000" />
+      <workItem from="1679359697739" duration="1125000" />
+      <workItem from="1679361061651" duration="16000" />
+      <workItem from="1679361090451" duration="30000" />
+      <workItem from="1679361136139" duration="7443000" />
+      <workItem from="1679372001543" duration="6652000" />
+      <workItem from="1679381456340" duration="2000" />
+      <workItem from="1679381569244" duration="8339000" />
+      <workItem from="1679391184737" duration="8000" />
+      <workItem from="1679556208964" duration="819000" />
+      <workItem from="1679565021903" duration="36000" />
+      <workItem from="1679572931613" duration="4334000" />
+      <workItem from="1679584149455" duration="1150000" />
+      <workItem from="1679632837340" duration="2211000" />
+      <workItem from="1679637322624" duration="7423000" />
+      <workItem from="1679651891305" duration="28567000" />
+      <workItem from="1679876013435" duration="3791000" />
+      <workItem from="1680081648507" duration="1038000" />
+      <workItem from="1680139393979" duration="2919000" />
+      <workItem from="1680237148432" duration="7272000" />
+      <workItem from="1680248056737" duration="353000" />
+      <workItem from="1680317210709" duration="36345000" />
+      <workItem from="1680435347379" duration="11326000" />
+      <workItem from="1680481094084" duration="4612000" />
+      <workItem from="1680500430054" duration="6146000" />
+      <workItem from="1680509264359" duration="2573000" />
+      <workItem from="1680518535198" duration="10198000" />
+      <workItem from="1680588806503" duration="16577000" />
+      <workItem from="1680664933145" duration="17753000" />
+      <workItem from="1680841754516" duration="5000" />
+      <workItem from="1680858805876" duration="1014000" />
+      <workItem from="1680864070957" duration="1411000" />
+      <workItem from="1680865569524" duration="14546000" />
+      <workItem from="1680923360203" duration="27705000" />
+      <workItem from="1681043435340" duration="579000" />
+      <workItem from="1681044984109" duration="1645000" />
+      <workItem from="1681046661449" duration="119000" />
+      <workItem from="1681048310591" duration="7912000" />
+      <workItem from="1681056912617" duration="106000" />
+      <workItem from="1681085636855" duration="827000" />
+      <workItem from="1681086546343" duration="2699000" />
+      <workItem from="1681090197243" duration="539000" />
+      <workItem from="1681091523563" duration="808000" />
+      <workItem from="1681101891275" duration="151000" />
+      <workItem from="1681102056764" duration="3094000" />
+      <workItem from="1681137551045" duration="332000" />
+      <workItem from="1681216717033" duration="1275000" />
+      <workItem from="1681218063332" duration="1000" />
+      <workItem from="1681218077287" duration="32000" />
+      <workItem from="1681218355161" duration="1658000" />
+      <workItem from="1681279601080" duration="11471000" />
+      <workItem from="1681301024709" duration="7890000" />
+      <workItem from="1681360800818" duration="3076000" />
+      <workItem from="1681364923847" duration="6505000" />
+      <workItem from="1681371710061" duration="4878000" />
+      <workItem from="1681382694861" duration="8407000" />
+      <workItem from="1681480633682" duration="37218000" />
+      <workItem from="1681626694733" duration="15226000" />
+      <workItem from="1681707423924" duration="25629000" />
+      <workItem from="1681777184217" duration="4065000" />
+      <workItem from="1681821504099" duration="13039000" />
+      <workItem from="1681920632919" duration="14799000" />
+      <workItem from="1682079578901" duration="6658000" />
+      <workItem from="1682092818152" duration="54000" />
+      <workItem from="1682092907543" duration="13689000" />
+      <workItem from="1682427949995" duration="3756000" />
+      <workItem from="1682490384638" duration="1439000" />
+      <workItem from="1682494062341" duration="617000" />
+      <workItem from="1682690360493" duration="9000" />
+      <workItem from="1682698016173" duration="3000" />
+      <workItem from="1682702923423" duration="2000" />
+      <workItem from="1682703793016" duration="216000" />
+      <workItem from="1682739105194" duration="813000" />
+      <workItem from="1682739999821" duration="617000" />
+      <workItem from="1682745439160" duration="20000" />
+      <workItem from="1682745470146" duration="63000" />
+      <workItem from="1682745541457" duration="5000" />
+      <workItem from="1682746989052" duration="841000" />
+      <workItem from="1682759686291" duration="1508000" />
+      <workItem from="1682775995916" duration="77000" />
+      <workItem from="1682832552580" duration="2255000" />
+      <workItem from="1682937364782" duration="652000" />
+      <workItem from="1682996561871" duration="3476000" />
+      <workItem from="1683002752330" duration="8703000" />
+      <workItem from="1683111686946" duration="2032000" />
+      <workItem from="1683183257094" duration="11986000" />
+      <workItem from="1683209558985" duration="6514000" />
+      <workItem from="1683273216134" duration="264000" />
+      <workItem from="1683283917119" duration="5000" />
+      <workItem from="1683361313967" duration="602000" />
+      <workItem from="1683365762178" duration="7000" />
+      <workItem from="1683377001248" duration="64000" />
+      <workItem from="1683377071524" duration="4480000" />
+      <workItem from="1683385467565" duration="456000" />
+      <workItem from="1683385965894" duration="3418000" />
+      <workItem from="1683389494945" duration="1000" />
+      <workItem from="1683389521193" duration="584000" />
+      <workItem from="1683390802359" duration="614000" />
+      <workItem from="1683426746433" duration="611000" />
+      <workItem from="1683428446487" duration="794000" />
+      <workItem from="1683430077128" duration="49000" />
+      <workItem from="1683430139052" duration="3032000" />
+      <workItem from="1683451315508" duration="171000" />
+      <workItem from="1683452180644" duration="3140000" />
+      <workItem from="1683459785562" duration="833000" />
+      <workItem from="1683523589135" duration="3000" />
+      <workItem from="1683523959079" duration="860000" />
+      <workItem from="1683528029120" duration="52000" />
+      <workItem from="1683528391667" duration="842000" />
+      <workItem from="1683557856748" duration="2147000" />
+      <workItem from="1683561002186" duration="40000" />
+      <workItem from="1683563626914" duration="3195000" />
+      <workItem from="1683597744584" duration="5374000" />
+      <workItem from="1683604936628" duration="4421000" />
+      <workItem from="1683613721504" duration="925000" />
+      <workItem from="1684247472066" duration="3392000" />
+      <workItem from="1684303535892" duration="6313000" />
+      <workItem from="1684317840936" duration="2000" />
+      <workItem from="1684375236949" duration="5770000" />
+      <workItem from="1684392365176" duration="7662000" />
+      <workItem from="1684400111179" duration="5864000" />
+      <workItem from="1684406353349" duration="216000" />
+      <workItem from="1684410466054" duration="18415000" />
+      <workItem from="1684462131429" duration="5319000" />
+      <workItem from="1684488910381" duration="2773000" />
+      <workItem from="1684494428468" duration="1484000" />
+      <workItem from="1684498258145" duration="114000" />
+      <workItem from="1684508858871" duration="1456000" />
+      <workItem from="1684556864274" duration="3798000" />
+      <workItem from="1684579927009" duration="1198000" />
+      <workItem from="1684588388300" duration="4795000" />
+      <workItem from="1684666889941" duration="4024000" />
+      <workItem from="1684718128166" duration="2164000" />
+      <workItem from="1684721617901" duration="10185000" />
+      <workItem from="1684742617866" duration="14870000" />
+      <workItem from="1684807788010" duration="16957000" />
+      <workItem from="1684845130788" duration="2509000" />
+      <workItem from="1684887040376" duration="3246000" />
+      <workItem from="1684902503483" duration="1240000" />
+      <workItem from="1684916692058" duration="8217000" />
+      <workItem from="1684934254643" duration="91000" />
+      <workItem from="1685001094281" duration="1280000" />
+      <workItem from="1685066054686" duration="1123000" />
+      <workItem from="1685152910384" duration="2633000" />
+      <workItem from="1685157542522" duration="1269000" />
+      <workItem from="1685158880985" duration="2000" />
+      <workItem from="1685429744935" duration="1134000" />
+      <workItem from="1685430934268" duration="365000" />
+      <workItem from="1685432486594" duration="4234000" />
+      <workItem from="1685442229388" duration="7849000" />
+      <workItem from="1685460977207" duration="81000" />
+      <workItem from="1685500332167" duration="18298000" />
+      <workItem from="1686556675119" duration="221000" />
+      <workItem from="1686556904322" duration="44000" />
+      <workItem from="1686557084054" duration="826000" />
+      <workItem from="1686617291245" duration="1560000" />
+      <workItem from="1686653733429" duration="5276000" />
+      <workItem from="1687341015804" duration="2352000" />
+      <workItem from="1687344602161" duration="8655000" />
+      <workItem from="1687397260751" duration="689000" />
+      <workItem from="1687404275373" duration="1000" />
+      <workItem from="1687404567563" duration="97000" />
+      <workItem from="1687484558096" duration="3601000" />
+      <workItem from="1687505852929" duration="25321000" />
+      <workItem from="1687568317238" duration="12040000" />
+      <workItem from="1687587709074" duration="156000" />
+      <workItem from="1687596587233" duration="2617000" />
+      <workItem from="1687601190110" duration="6176000" />
+      <workItem from="1687609754970" duration="13138000" />
+      <workItem from="1687628930960" duration="9198000" />
+      <workItem from="1687678355148" duration="22816000" />
+      <workItem from="1687745052135" duration="10215000" />
+      <workItem from="1687941174705" duration="477000" />
+      <workItem from="1687953043539" duration="925000" />
+      <workItem from="1688009100969" duration="596000" />
+      <workItem from="1688025098265" duration="963000" />
+      <workItem from="1688263398823" duration="30710000" />
+      <workItem from="1688561800683" duration="19000" />
+      <workItem from="1688612674783" duration="88330000" />
+      <workItem from="1688954975246" duration="3915000" />
+      <workItem from="1688960427286" duration="4199000" />
+      <workItem from="1688966173796" duration="270000" />
+      <workItem from="1688967939883" duration="523000" />
+      <workItem from="1688969752833" duration="399000" />
+      <workItem from="1688974835395" duration="232000" />
+      <workItem from="1688975075328" duration="3596000" />
+      <workItem from="1688983802075" duration="435000" />
+      <workItem from="1688984260816" duration="22000" />
+      <workItem from="1688984312151" duration="6000" />
+      <workItem from="1688984340943" duration="822000" />
+      <workItem from="1688985592434" duration="1156000" />
+      <workItem from="1688989284692" duration="5753000" />
+      <workItem from="1689040079944" duration="15576000" />
+      <workItem from="1689077999926" duration="106000" />
+      <workItem from="1689078115504" duration="532000" />
+      <workItem from="1689125466464" duration="3923000" />
+      <workItem from="1689300694193" duration="26039000" />
+      <workItem from="1689406747650" duration="9774000" />
+      <workItem from="1689424985223" duration="2185000" />
+      <workItem from="1689472618973" duration="15243000" />
+      <workItem from="1689558396709" duration="2533000" />
+      <workItem from="1689561192133" duration="3451000" />
+      <workItem from="1689564666921" duration="8873000" />
+      <workItem from="1689584555160" duration="5710000" />
+      <workItem from="1689642983511" duration="4000" />
+      <workItem from="1689643101756" duration="5000" />
+      <workItem from="1689643287230" duration="21000" />
+      <workItem from="1689643747001" duration="1126000" />
+      <workItem from="1689647560870" duration="186000" />
+      <workItem from="1689648058438" duration="6812000" />
+      <workItem from="1689656863956" duration="16377000" />
+      <workItem from="1689686411022" duration="9517000" />
+      <workItem from="1689737163691" duration="17957000" />
+      <workItem from="1689774565372" duration="22687000" />
+      <workItem from="1689915345602" duration="1913000" />
+      <workItem from="1689918875832" duration="3928000" />
+      <workItem from="1689936425520" duration="2270000" />
+      <workItem from="1689951241503" duration="659000" />
+      <workItem from="1690287310950" duration="699000" />
+      <workItem from="1690338998569" duration="32827000" />
+      <workItem from="1690384645434" duration="6035000" />
+      <workItem from="1690449436671" duration="603000" />
+      <workItem from="1690529223133" duration="1400000" />
+      <workItem from="1690553841092" duration="5012000" />
+      <workItem from="1690685807908" duration="10785000" />
+      <workItem from="1690784967126" duration="64154000" />
+      <workItem from="1690946624939" duration="103817000" />
+      <workItem from="1691201928679" duration="8583000" />
+      <workItem from="1691221135558" duration="7571000" />
+      <workItem from="1691308018873" duration="12528000" />
+      <workItem from="1691385108929" duration="9562000" />
+      <workItem from="1691394866703" duration="3012000" />
+      <workItem from="1691644683021" duration="10148000" />
+      <workItem from="1691655771309" duration="602000" />
+      <workItem from="1691747715585" duration="864000" />
+      <workItem from="1691762690611" duration="2005000" />
+      <workItem from="1691831773663" duration="333000" />
+      <workItem from="1691841963077" duration="5000" />
+      <workItem from="1691932003270" duration="13633000" />
+      <workItem from="1692001582289" duration="1407000" />
+      <workItem from="1692003178592" duration="2378000" />
+      <workItem from="1692005914515" duration="74000" />
+      <workItem from="1692005999423" duration="350000" />
+      <workItem from="1692006543960" duration="200000" />
+      <workItem from="1692006754288" duration="461000" />
+      <workItem from="1692007363310" duration="2521000" />
+      <workItem from="1692067960778" duration="1199000" />
+      <workItem from="1692069179978" duration="6985000" />
+      <workItem from="1692076301924" duration="4750000" />
+      <workItem from="1692082082136" duration="684000" />
+      <workItem from="1692104856442" duration="6402000" />
+      <workItem from="1692164873105" duration="38279000" />
+      <workItem from="1692261183172" duration="14304000" />
+      <workItem from="1692326157851" duration="2237000" />
+      <workItem from="1692328867175" duration="9577000" />
+      <workItem from="1692341920976" duration="36511000" />
+      <workItem from="1692517689906" duration="726000" />
+      <workItem from="1692594352416" duration="114000" />
+      <workItem from="1692607894979" duration="87000" />
+      <workItem from="1692610383934" duration="53000" />
+      <workItem from="1692610806558" duration="741000" />
+      <workItem from="1692624739438" duration="666000" />
+      <workItem from="1692943591228" duration="1219000" />
+      <workItem from="1693745138825" duration="6346000" />
+      <workItem from="1693781749214" duration="605000" />
+      <workItem from="1693901967347" duration="3886000" />
+      <workItem from="1693972393020" duration="11000" />
+      <workItem from="1693987583268" duration="16287000" />
+      <workItem from="1694086509816" duration="3527000" />
+      <workItem from="1694102328140" duration="29864000" />
+      <workItem from="1694400460576" duration="2041000" />
+      <workItem from="1694421309950" duration="636000" />
+      <workItem from="1694745396667" duration="4080000" />
+      <workItem from="1694751739174" duration="2431000" />
+      <workItem from="1694756116292" duration="40000" />
+      <workItem from="1694762759639" duration="6057000" />
+      <workItem from="1694782574738" duration="470000" />
+      <workItem from="1695287801257" duration="1043000" />
+      <workItem from="1695647748938" duration="600000" />
+      <workItem from="1695988093736" duration="630000" />
+      <workItem from="1696398728876" duration="162000" />
+      <workItem from="1696504642623" duration="1298000" />
+      <workItem from="1697032793551" duration="2762000" />
+      <workItem from="1697117422729" duration="1684000" />
+      <workItem from="1697267632120" duration="219000" />
+      <workItem from="1697272906770" duration="254000" />
+      <workItem from="1697462407650" duration="111000" />
+      <workItem from="1697700862769" duration="84000" />
+      <workItem from="1697716010004" duration="93000" />
+      <workItem from="1698242541720" duration="297000" />
+      <workItem from="1698310357315" duration="610000" />
+      <workItem from="1698329679174" duration="683000" />
+      <workItem from="1698371819470" duration="752000" />
+      <workItem from="1698503492769" duration="1005000" />
+      <workItem from="1698627204609" duration="1933000" />
+      <workItem from="1698849658634" duration="1870000" />
+      <workItem from="1698910160290" duration="2450000" />
+      <workItem from="1698914053719" duration="460000" />
+      <workItem from="1698999543907" duration="1573000" />
+      <workItem from="1699002512474" duration="1983000" />
+      <workItem from="1699014981476" duration="966000" />
+      <workItem from="1699073620566" duration="70000" />
+      <workItem from="1699112104324" duration="173000" />
+      <workItem from="1699201971193" duration="1717000" />
+      <workItem from="1699287290866" duration="836000" />
+      <workItem from="1699369381464" duration="10000" />
+      <workItem from="1699586612508" duration="2310000" />
+      <workItem from="1699694027476" duration="789000" />
+      <workItem from="1699706692958" duration="5945000" />
+      <workItem from="1699716925305" duration="9831000" />
+      <workItem from="1699773764809" duration="2040000" />
+      <workItem from="1699800025740" duration="92000" />
+      <workItem from="1699886598298" duration="1407000" />
+      <workItem from="1699945260407" duration="121000" />
+      <workItem from="1700116588599" duration="1105000" />
+      <workItem from="1700207090137" duration="629000" />
+      <workItem from="1700322497250" duration="693000" />
+      <workItem from="1700470656124" duration="7000" />
+      <workItem from="1700470680592" duration="595000" />
+      <workItem from="1700472044487" duration="201000" />
+      <workItem from="1700472255765" duration="593000" />
+      <workItem from="1700726182683" duration="593000" />
+      <workItem from="1700729267388" duration="624000" />
+      <workItem from="1700747033312" duration="1502000" />
+      <workItem from="1700752420268" duration="1068000" />
+      <workItem from="1700808717357" duration="6608000" />
+      <workItem from="1701244712327" duration="1388000" />
+      <workItem from="1701246524713" duration="19000" />
+      <workItem from="1701246764274" duration="1667000" />
+      <workItem from="1701248718126" duration="2186000" />
+      <workItem from="1701250939298" duration="1612000" />
+      <workItem from="1701254078029" duration="4339000" />
+      <workItem from="1701261364149" duration="9647000" />
+      <workItem from="1701449234967" duration="637000" />
+      <workItem from="1701526567309" duration="850000" />
+      <workItem from="1701603963776" duration="107000" />
+      <workItem from="1701604094341" duration="626000" />
+      <workItem from="1701764293808" duration="11000" />
+      <workItem from="1701764322403" duration="86000" />
+      <workItem from="1701766583713" duration="10748000" />
+      <workItem from="1701842791347" duration="317000" />
+      <workItem from="1701873071499" duration="11915000" />
+      <workItem from="1702014050862" duration="6446000" />
+      <workItem from="1702022465506" duration="53000" />
+      <workItem from="1702022547137" duration="755000" />
+      <workItem from="1702031757001" duration="126000" />
+      <workItem from="1702032045027" duration="3292000" />
+      <workItem from="1702035504734" duration="31004000" />
+      <workItem from="1702132429744" duration="29814000" />
+      <workItem from="1702310501334" duration="49000" />
+      <workItem from="1702310558453" duration="632000" />
+      <workItem from="1702383039711" duration="18000" />
+      <workItem from="1702383101751" duration="3000" />
+      <workItem from="1702445339445" duration="235000" />
+      <workItem from="1702445773100" duration="492000" />
+      <workItem from="1702452569044" duration="16000" />
+      <workItem from="1702716198445" duration="343000" />
+      <workItem from="1702735678831" duration="751000" />
+      <workItem from="1702737772627" duration="40000" />
+      <workItem from="1702737845377" duration="965000" />
+      <workItem from="1702870000332" duration="2318000" />
+      <workItem from="1703055342164" duration="1202000" />
+      <workItem from="1703138059730" duration="618000" />
+      <workItem from="1703142686869" duration="1259000" />
+      <workItem from="1703343902139" duration="619000" />
+      <workItem from="1703419877665" duration="334000" />
+      <workItem from="1703485289481" duration="40000" />
+      <workItem from="1703600094460" duration="89000" />
+      <workItem from="1703943254361" duration="38000" />
+      <workItem from="1704354456361" duration="81000" />
+      <workItem from="1704354653294" duration="22037000" />
+      <workItem from="1704384777480" duration="12416000" />
+      <workItem from="1704459410043" duration="3766000" />
+      <workItem from="1704519772239" duration="1619000" />
+      <workItem from="1704549129658" duration="9429000" />
+      <workItem from="1704636404178" duration="9489000" />
+      <workItem from="1705048810370" duration="80000" />
+      <workItem from="1705048935889" duration="117000" />
+      <workItem from="1705049379232" duration="2597000" />
+      <workItem from="1705301420946" duration="4563000" />
+      <workItem from="1705323852976" duration="330000" />
+      <workItem from="1705471752477" duration="65000" />
+      <workItem from="1705472019902" duration="895000" />
+      <workItem from="1705827330232" duration="750000" />
+      <workItem from="1705908348491" duration="608000" />
+      <workItem from="1706076858093" duration="9018000" />
+      <workItem from="1706086030163" duration="36000" />
+      <workItem from="1706104587599" duration="630000" />
+      <workItem from="1706420474552" duration="29415000" />
+      <workItem from="1706514516376" duration="29709000" />
+      <workItem from="1706703296575" duration="455000" />
+      <workItem from="1706795545794" duration="194000" />
+      <workItem from="1706965112551" duration="348000" />
+      <workItem from="1706965521683" duration="223000" />
+      <workItem from="1708585586057" duration="14435000" />
+      <workItem from="1709134691826" duration="2625000" />
+      <workItem from="1709300294430" duration="2424000" />
+      <workItem from="1709446465673" duration="3388000" />
+      <workItem from="1709534212577" duration="16055000" />
+      <workItem from="1709613191796" duration="61642000" />
+      <workItem from="1709775452101" duration="369000" />
+      <workItem from="1709797662317" duration="523000" />
+      <workItem from="1709882854398" duration="205000" />
+      <workItem from="1709971006707" duration="867000" />
+      <workItem from="1710076695171" duration="5000" />
+      <workItem from="1710166600695" duration="612000" />
+      <workItem from="1710404699483" duration="642000" />
+      <workItem from="1710505785519" duration="598000" />
+      <workItem from="1710578898486" duration="13272000" />
+      <workItem from="1710659579802" duration="32000" />
+      <workItem from="1710659619689" duration="761000" />
+      <workItem from="1710660760004" duration="3170000" />
+      <workItem from="1710817999112" duration="891000" />
+      <workItem from="1711115175486" duration="6273000" />
+      <workItem from="1711177782092" duration="16000" />
+      <workItem from="1712050003511" duration="431000" />
+      <workItem from="1712059103885" duration="11000" />
+      <workItem from="1712059502360" duration="724000" />
+      <workItem from="1712836798605" duration="1930000" />
+      <workItem from="1713019927247" duration="30091000" />
+      <workItem from="1713162768817" duration="22000" />
+      <workItem from="1713162840118" duration="27703000" />
+      <workItem from="1713253724206" duration="37639000" />
+      <workItem from="1713345257274" duration="4840000" />
+      <workItem from="1713419541887" duration="1810000" />
+      <workItem from="1713421386169" duration="34514000" />
+      <workItem from="1713494115995" duration="69273000" />
+      <workItem from="1713687196890" duration="12409000" />
+      <workItem from="1713712903530" duration="5437000" />
+      <workItem from="1714308805438" duration="4921000" />
+      <workItem from="1714388097596" duration="14527000" />
+      <workItem from="1714404575054" duration="4242000" />
+      <workItem from="1714663660013" duration="125646000" />
+      <workItem from="1715101412011" duration="96000" />
+      <workItem from="1715138013451" duration="6855000" />
+      <workItem from="1715689821995" duration="4820000" />
+      <workItem from="1715697266683" duration="21255000" />
+      <workItem from="1716217940947" duration="557000" />
+      <workItem from="1716299963178" duration="332000" />
+      <workItem from="1716354900335" duration="112000" />
+      <workItem from="1716368972061" duration="11392000" />
+      <workItem from="1716629086197" duration="1217000" />
+      <workItem from="1716649768407" duration="3525000" />
+      <workItem from="1716791678168" duration="147000" />
+      <workItem from="1716791869508" duration="2011000" />
+      <workItem from="1716866576121" duration="36758000" />
+      <workItem from="1717313925055" duration="709000" />
+      <workItem from="1717557143884" duration="11334000" />
+      <workItem from="1718086007567" duration="64316000" />
+      <workItem from="1718523161578" duration="2180000" />
+      <workItem from="1718702148667" duration="1366000" />
+      <workItem from="1718957759492" duration="16999000" />
+      <workItem from="1719036530145" duration="3344000" />
+      <workItem from="1719120055964" duration="30790000" />
+      <workItem from="1719162215270" duration="1192000" />
+      <workItem from="1719179522986" duration="23533000" />
+      <workItem from="1719291603269" duration="1254000" />
+      <workItem from="1719307557092" duration="3759000" />
+      <workItem from="1719332216852" duration="755000" />
+      <workItem from="1719387289826" duration="734000" />
+      <workItem from="1719389032746" duration="8922000" />
+      <workItem from="1719474388848" duration="8005000" />
+      <workItem from="1719669174574" duration="56000" />
+      <workItem from="1719722049330" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2022.3/remote_sources/-1392329810/217125916/tensorly/decomposition/_tr.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_forecast.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/revise_2$Model.coverage" NAME="Model 覆盖结果" MODIFIED="1678148360104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time2vec" />
+    <SUITE FILE_PATH="coverage/model_topk_A$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1713198389373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TSLinear$train_forecast.coverage" NAME="train_forecast 覆盖结果" MODIFIED="1719407251365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_$joint_test.coverage" NAME="joint_test 覆盖结果" MODIFIED="1704367337520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/TSLinear$train_anom.coverage" NAME="train_anom 覆盖结果" MODIFIED="1719405577342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2_$train.coverage" NAME="train 覆盖结果" MODIFIED="1681217163139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__$convert.coverage" NAME="convert 覆盖结果" MODIFIED="1709556822525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/anomaly/SWaT" />
+    <SUITE FILE_PATH="coverage/model_topk_A_$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1713265294578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model__sin_cos$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1719120453546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model__sin$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1713420420246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1____fb$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1692428952498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1701327828597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_____fb$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1692328447612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1___$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1694752478820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model__sin_cos___$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1715696352035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask_$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1701604002969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$electricty.coverage" NAME="electricty 覆盖结果" MODIFIED="1677342984527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$dilated_conv.coverage" NAME="dilated_conv 覆盖结果" MODIFIED="1679389941381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/revise_2$train.coverage" NAME="train 覆盖结果" MODIFIED="1681137557730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$time2vec_layers.coverage" NAME="time2vec_layers 覆盖结果" MODIFIED="1678699310792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time2vec" />
+    <SUITE FILE_PATH="coverage/model_1_____fb$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1692328398744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1___$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1694752310233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask__pred_1$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1702017823437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1691385529093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$run.coverage" NAME="run 覆盖结果" MODIFIED="1678695818040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time2Vec_master7/Time2Vec" />
+    <SUITE FILE_PATH="coverage/revise_2$encoder.coverage" NAME="encoder 覆盖结果" MODIFIED="1678149122653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/model_1__$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1711120975601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$preprocess_electricity.coverage" NAME="preprocess_electricity 覆盖结果" MODIFIED="1689671490289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/model_1$Test.coverage" NAME="Test 覆盖结果" MODIFIED="1691312227333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1691763713834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_topk$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1713110060141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$.coverage" NAME="数据集预处理 覆盖结果" MODIFIED="1688285433561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_______fb$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1692341743146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask__pred_1$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1702017826553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1704557792588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_topk_A_$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1713371267360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1____fb$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1692429599270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$ts2vec_class.coverage" NAME="ts2vec_class 覆盖结果" MODIFIED="1687706610392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__GRU$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1701257971063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$train.coverage" NAME="train 覆盖结果" MODIFIED="1690339993272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1___$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1694773756210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1710684048203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1____fb$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1692447613452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model__sin_cos$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1719316543214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask__pred_1_$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1702031570596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_____fb$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1692259222331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$ts2vec_1.coverage" NAME="ts2vec_1 覆盖结果" MODIFIED="1691070900687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1691247838034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$train_class.coverage" NAME="train_class 覆盖结果" MODIFIED="1690702809773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_______fb$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1692340143858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_$Test.coverage" NAME="Test 覆盖结果" MODIFIED="1704367287789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1711115812434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1691397880209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__$train.coverage" NAME="train 覆盖结果" MODIFIED="1710683514691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_topk$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1713096491613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_topk_A_$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1713268468655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_topk$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1713102986328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$preprocess_kpi.coverage" NAME="preprocess_kpi 覆盖结果" MODIFIED="1685001376700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/model_1____$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1692111248800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$experiment.coverage" NAME="experiment 覆盖结果" MODIFIED="1680239981152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time2vec" />
+    <SUITE FILE_PATH="coverage/model__sin_cos$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1718335120112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TSLinear$train_class.coverage" NAME="train_class 覆盖结果" MODIFIED="1719407978074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_topk_A$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1713197478449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_topk_A$train_11_anom.coverage" NAME="train_11_anom 覆盖结果" MODIFIED="1713253428272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1_$train_11_class.coverage" NAME="train_11_class 覆盖结果" MODIFIED="1704610055925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/revise_2$Test.coverage" NAME="Test 覆盖结果" MODIFIED="1680595599462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1__mask__pred_1$train_1.coverage" NAME="train_1 覆盖结果" MODIFIED="1702022260667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/model_1$ts2vec_11_anom.coverage" NAME="ts2vec_11_anom 覆盖结果" MODIFIED="1690704152529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
