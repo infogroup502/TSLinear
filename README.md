@@ -31,6 +31,7 @@ Such as [Chinatown](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/Chinato
 - [SMD](https://github.com/NetManAIOps/OmniAnomaly) should be placed at `datasets/anomaly/SMD.csv`.
 - [SMAP](https://en.wikipedia.org/wiki/Soil_Moisture_Active_Passive) should be placed at `datasets/anomaly/SMAP.csv`.
 - [MBA](https://paperswithcode.com/dataset/mit-bih-arrhythmia-database) should be placed at `datasets/anomaly/MBA.csv`.
+- [Anomaly_Detection_Falling_People](https://www.kaggle.com/datasets/jorekai/anomaly-detection-falling-people-events) should be placed at `datasets/anomaly/Anomaly_Detection_Falling_People.csv`.
 - [SwaT](https://drive.google.com/drive/folders/1ABZKdclka3e2NXBSxS9z2YF59p7g2Y5I) should be placed at `datasets/anomaly/SwaT.csv`.
 ## Usage
 To train and evaluate TSG2L on a dataset, run the following command:
