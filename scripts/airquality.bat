@@ -1,0 +1,1 @@
+python train_forecast.py --dataset airquality --epoch_dict  "{'epoch_0': 4, 'epoch_1': 5, 'epoch_2': 1, 'epoch_3': 7, 'text_epoch': 6}"  --a_3  1400  --c 21 --pred_len 8 --port 5 

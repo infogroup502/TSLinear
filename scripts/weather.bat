@@ -1,0 +1,1 @@
+python train_forecast.py --dataset weather --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 7, 'epoch_3': 4, 'text_epoch': 6}"  --a_3  200  --c 10 --pred_len 15 --port 8 

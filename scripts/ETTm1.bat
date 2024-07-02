@@ -1,0 +1,1 @@
+python train_forecast.py --dataset ETTm1 --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 2, 'text_epoch': 1}"  --a_3  1600  --c 190 --pred_len 50 --port 22

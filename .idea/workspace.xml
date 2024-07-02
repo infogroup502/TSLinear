@@ -23,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Anaconda3_2021_05/envs/model_1/Lib/site-packages/torch/nn/functional.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../Anaconda3_2021_05/envs/model_1/Lib/site-packages/torch/nn/modules/module.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -79,7 +80,7 @@
       <recent name="D:\Users\谢星权\Desktop\实验模型\model_1\datasets\forecast" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_class">
+  <component name="RunManager" selected="Python.train_forecast">
     <configuration name="train_anom" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="revise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -662,7 +663,8 @@
       <workItem from="1719389032746" duration="8922000" />
       <workItem from="1719474388848" duration="8005000" />
       <workItem from="1719669174574" duration="56000" />
-      <workItem from="1719722049330" duration="592000" />
+      <workItem from="1719722049330" duration="1183000" />
+      <workItem from="1719907011398" duration="4678000" />
     </task>
     <servers />
   </component>

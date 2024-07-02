@@ -1,0 +1,1 @@
+python train_class.py --dataset RacketSports --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 6, 'text_epoch': 20}"  --a_3  800  --c 14 --pred_len 20 --port 1

@@ -1,0 +1,1 @@
+python train_class.py --dataset ItalyPowerDemand --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 22, 'text_epoch': 15}"  --a_3  200  --c 1 --pred_len 11 --port 4

@@ -1,0 +1,1 @@
+python train_forecast.py --dataset NEW-DATA-1.T15 --epoch_dict  "{'epoch_0': 1, 'epoch_1': 19, 'epoch_2': 1, 'epoch_3': 1, 'text_epoch': 32}"  --a_3  900  --c 11 --pred_len 3 --port 22

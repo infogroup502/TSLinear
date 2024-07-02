@@ -1,0 +1,1 @@
+python train_forecast.py --dataset Tetuan_City_power_consumption  --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 2, 'text_epoch': 17}"  --a_3  1600  --c 15 --pred_len 7 --port 22

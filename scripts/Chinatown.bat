@@ -1,0 +1,1 @@
+python train_class.py --dataset Chinatown --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 1, 'text_epoch': 2}"  --a_3  600  --c 2 --pred_len 3 --port 2

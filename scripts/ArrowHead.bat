@@ -1,0 +1,1 @@
+python train_class.py --dataset ArrowHead --epoch_dict  "{'epoch_0': 1, 'epoch_1': 1, 'epoch_2': 1, 'epoch_3': 10, 'text_epoch': 1}"  --a_3  200  --c 1 --pred_len 1 --port 9
