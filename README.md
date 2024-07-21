@@ -34,7 +34,7 @@ Such as Chinatown, ItalyPowerDemand, RacketSports, ArrowHead, Libras.
 - [Anomaly_Detection_Falling_People](https://www.kaggle.com/datasets/jorekai/anomaly-detection-falling-people-events) should be placed at `datasets/anomaly/Anomaly_Detection_Falling_People.csv`.
 - [SwaT](https://drive.google.com/drive/folders/1ABZKdclka3e2NXBSxS9z2YF59p7g2Y5I) should be placed at `datasets/anomaly/SwaT.csv`.
 ## Usage
-To train and evaluate TSG2L on a dataset, run the following command:
+To train and evaluate TSLinear on a dataset, run the following command:
 ```bash
 python train_forecast.py --dataset <dataset_name>  --run_name <run_name> --loader <loader> --gpu <gpu> 
 ```
