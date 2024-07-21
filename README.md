@@ -49,4 +49,5 @@ The detailed descriptions about the arguments are as following:
 (For descriptions of more arguments, run `python train.py -h`.)
 
 After training and evaluation, the trained encoder, output and evaluation metrics can be found in `training/DatasetName__RunName_Date_Time/`. 
+
 **Scripts:** The scripts for reproduction are provided in scripts/ folder.
